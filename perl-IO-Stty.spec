@@ -3,7 +3,7 @@ Summary:	IO-Stty perl module
 Summary(pl):	Modu³ perla IO-Stty
 Name:		perl-IO-Stty
 Version:	02
-Release:	4
+Release:	5
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
