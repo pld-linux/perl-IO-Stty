@@ -43,7 +43,7 @@ IO::Stty jest modu³em s³u¿±cym do ustawiania parametrów terminala.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
