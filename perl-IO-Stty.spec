@@ -41,7 +41,7 @@ IO::Stty jest modu³em s³u¿±cym do ustawiania parametrów terminala.
 %patch -p1
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 
 %install
