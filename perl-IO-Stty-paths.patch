@@ -1,0 +1,8 @@
+--- IO-Stty-.02/stty.pl.perlpath	Fri Dec  5 19:35:47 1997
++++ IO-Stty-.02/stty.pl	Wed May 12 00:34:09 1999
+@@ -1,4 +1,4 @@
+-#!/usr/local/perl/bin/perl
++#!/usr/bin/perl
+ 
+ require IO::Stty;
+ 
