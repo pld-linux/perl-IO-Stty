@@ -27,7 +27,7 @@ IO-Stty jest modu³em s³u¿±cym do ustawiania parametrów terminala.
 
 %build
 perl Makefile.PL
-make
+%{__make}
 
 %install
 rm -rf $RPM_BUILD_ROOT
