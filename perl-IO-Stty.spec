@@ -10,7 +10,7 @@ Summary(fr):	Module Perl IO::Stty
 Summary(it):	Modulo di Perl IO::Stty
 Summary(ja):	IO::Stty Perl ¥â¥¸¥å¡¼¥ë
 Summary(ko):	IO::Stty ÆÞ ¸ðÁÙ
-Summary(no):	Perlmodul IO::Stty
+Summary(nb):	Perlmodul IO::Stty
 Summary(pl):	Modu³ perla IO::Stty
 Summary(pt_BR):	Módulo Perl IO::Stty
 Summary(pt):	Módulo de Perl IO::Stty
