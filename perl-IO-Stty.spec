@@ -4,11 +4,11 @@ Summary(pl):	Modu³ perla IO-Stty
 Name:		perl-IO-Stty
 Version:	02
 Release:	3
-Copyright:	GPL
+License:	GPL
 Group:		Development/Languages/Perl
 Group(pl):	Programowanie/Jêzyki/Perl
-Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/IO/IO-Stty-.%{version}.tar.gz
-Patch:		perl-IO-Stty-paths.patch
+Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/IO/IO-Stty-.%{version}.tar.gz
+Patch0:		perl-IO-Stty-paths.patch
 BuildRequires:	rpm-perlprov >= 3.0.3-16
 BuildRequires:	perl >= 5.005_03-14
 %requires_eq	perl
@@ -16,7 +16,7 @@ Requires:	%{perl_sitearch}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-IO-Stty is a module for setting terminal parameters. 
+IO-Stty is a module for setting terminal parameters.
 
 %description -l pl
 IO-Stty jest modu³em s³u¿±cym do ustawiania parametrów terminala.
