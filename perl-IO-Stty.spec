@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
-Summary:	IO-Stty perl module
-Summary(pl):	Modu³ perla IO-Stty
+Summary:	IO::Stty perl module
+Summary(pl):	Modu³ perla IO::Stty
 Name:		perl-IO-Stty
 Version:	02
 Release:	6
@@ -14,10 +14,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-IO-Stty is a module for setting terminal parameters.
+IO::Stty is a module for setting terminal parameters.
 
 %description -l pl
-IO-Stty jest modu³em s³u¿±cym do ustawiania parametrów terminala.
+IO::Stty jest modu³em s³u¿±cym do ustawiania parametrów terminala.
 
 %prep
 %setup -q -n IO-Stty-.%{version}
