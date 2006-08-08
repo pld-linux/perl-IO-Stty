@@ -39,7 +39,7 @@ IO::Stty jest modu³em s³u¿±cym do ustawiania parametrów terminala.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-.%{version}
-%patch -p1
+%patch0 -p1
 
 %build
 %{__perl} Makefile.PL \
