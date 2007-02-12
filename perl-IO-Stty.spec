@@ -2,22 +2,22 @@
 %define		pdir	IO
 %define		pnam	Stty
 Summary:	IO::Stty Perl module
-Summary(cs):	Modul IO::Stty pro Perl
-Summary(da):	Perlmodul IO::Stty
-Summary(de):	IO::Stty Perl Modul
-Summary(es):	MÛdulo de Perl IO::Stty
-Summary(fr):	Module Perl IO::Stty
-Summary(it):	Modulo di Perl IO::Stty
-Summary(ja):	IO::Stty Perl •‚•∏•Â°º•Î
-Summary(ko):	IO::Stty ∆ﬁ ∏¡Ÿ
-Summary(nb):	Perlmodul IO::Stty
-Summary(pl):	Modu≥ perla IO::Stty
-Summary(pt_BR):	MÛdulo Perl IO::Stty
-Summary(pt):	MÛdulo de Perl IO::Stty
-Summary(ru):	Ìœƒ’Ãÿ ƒÃ— Perl IO::Stty
-Summary(sv):	IO::Stty Perlmodul
-Summary(uk):	Ìœƒ’Ãÿ ƒÃ— Perl IO::Stty
-Summary(zh_CN):	IO::Stty Perl ƒ£øÈ
+Summary(cs.UTF-8):   Modul IO::Stty pro Perl
+Summary(da.UTF-8):   Perlmodul IO::Stty
+Summary(de.UTF-8):   IO::Stty Perl Modul
+Summary(es.UTF-8):   M√≥dulo de Perl IO::Stty
+Summary(fr.UTF-8):   Module Perl IO::Stty
+Summary(it.UTF-8):   Modulo di Perl IO::Stty
+Summary(ja.UTF-8):   IO::Stty Perl „É¢„Ç∏„É•„Éº„É´
+Summary(ko.UTF-8):   IO::Stty ÌéÑ Î™®Ï§Ñ
+Summary(nb.UTF-8):   Perlmodul IO::Stty
+Summary(pl.UTF-8):   Modu≈Ç perla IO::Stty
+Summary(pt_BR.UTF-8):   M√≥dulo Perl IO::Stty
+Summary(pt.UTF-8):   M√≥dulo de Perl IO::Stty
+Summary(ru.UTF-8):   –ú–æ–¥—É–ª—å –¥–ª—è Perl IO::Stty
+Summary(sv.UTF-8):   IO::Stty Perlmodul
+Summary(uk.UTF-8):   –ú–æ–¥—É–ª—å –¥–ª—è Perl IO::Stty
+Summary(zh_CN.UTF-8):   IO::Stty Perl Ê®°Âùó
 Name:		perl-IO-Stty
 Version:	02
 Release:	8
@@ -34,8 +34,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 IO::Stty is a module for setting terminal parameters.
 
-%description -l pl
-IO::Stty jest modu≥em s≥uø±cym do ustawiania parametrÛw terminala.
+%description -l pl.UTF-8
+IO::Stty jest modu≈Çem s≈Çu≈ºƒÖcym do ustawiania parametr√≥w terminala.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-.%{version}
