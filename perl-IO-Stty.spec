@@ -2,22 +2,22 @@
 %define		pdir	IO
 %define		pnam	Stty
 Summary:	IO::Stty Perl module
-Summary(cs.UTF-8):   Modul IO::Stty pro Perl
-Summary(da.UTF-8):   Perlmodul IO::Stty
-Summary(de.UTF-8):   IO::Stty Perl Modul
-Summary(es.UTF-8):   Módulo de Perl IO::Stty
-Summary(fr.UTF-8):   Module Perl IO::Stty
-Summary(it.UTF-8):   Modulo di Perl IO::Stty
-Summary(ja.UTF-8):   IO::Stty Perl モジュール
-Summary(ko.UTF-8):   IO::Stty 펄 모줄
-Summary(nb.UTF-8):   Perlmodul IO::Stty
-Summary(pl.UTF-8):   Moduł perla IO::Stty
-Summary(pt_BR.UTF-8):   Módulo Perl IO::Stty
-Summary(pt.UTF-8):   Módulo de Perl IO::Stty
-Summary(ru.UTF-8):   Модуль для Perl IO::Stty
-Summary(sv.UTF-8):   IO::Stty Perlmodul
-Summary(uk.UTF-8):   Модуль для Perl IO::Stty
-Summary(zh_CN.UTF-8):   IO::Stty Perl 模块
+Summary(cs.UTF-8):	Modul IO::Stty pro Perl
+Summary(da.UTF-8):	Perlmodul IO::Stty
+Summary(de.UTF-8):	IO::Stty Perl Modul
+Summary(es.UTF-8):	Módulo de Perl IO::Stty
+Summary(fr.UTF-8):	Module Perl IO::Stty
+Summary(it.UTF-8):	Modulo di Perl IO::Stty
+Summary(ja.UTF-8):	IO::Stty Perl モジュール
+Summary(ko.UTF-8):	IO::Stty 펄 모줄
+Summary(nb.UTF-8):	Perlmodul IO::Stty
+Summary(pl.UTF-8):	Moduł perla IO::Stty
+Summary(pt_BR.UTF-8):	Módulo Perl IO::Stty
+Summary(pt.UTF-8):	Módulo de Perl IO::Stty
+Summary(ru.UTF-8):	Модуль для Perl IO::Stty
+Summary(sv.UTF-8):	IO::Stty Perlmodul
+Summary(uk.UTF-8):	Модуль для Perl IO::Stty
+Summary(zh_CN.UTF-8):	IO::Stty Perl 模块
 Name:		perl-IO-Stty
 Version:	02
 Release:	8
