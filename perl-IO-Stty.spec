@@ -20,7 +20,7 @@ Summary(uk.UTF-8):	Модуль для Perl IO::Stty
 Summary(zh_CN.UTF-8):	IO::Stty Perl 模块
 Name:		perl-IO-Stty
 Version:	02
-Release:	8
+Release:	9
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-.%{version}.tar.gz
