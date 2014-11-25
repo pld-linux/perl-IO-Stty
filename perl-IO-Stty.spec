@@ -1,6 +1,6 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	IO
 %define		pnam	Stty
+%include	/usr/lib/rpm/macros.perl
 Summary:	IO::Stty Perl module
 Summary(cs.UTF-8):	Modul IO::Stty pro Perl
 Summary(da.UTF-8):	Perlmodul IO::Stty
@@ -26,6 +26,7 @@ Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-.%{version}.tar.gz
 # Source0-md5:	db2919cf267fce93682f0f854359f04e
 Patch0:		%{name}-paths.patch
+URL:		http://search.cpan.org/dist/IO-Stty/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
