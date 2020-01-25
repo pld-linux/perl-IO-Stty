@@ -1,6 +1,5 @@
 %define		pdir	IO
 %define		pnam	Stty
-%include	/usr/lib/rpm/macros.perl
 Summary:	IO::Stty Perl module
 Summary(cs.UTF-8):	Modul IO::Stty pro Perl
 Summary(da.UTF-8):	Perlmodul IO::Stty
